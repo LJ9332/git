@@ -1,2 +1,2 @@
-class Partners
+class gets
 end
